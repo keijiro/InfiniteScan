@@ -1,8 +1,8 @@
 Infinite Scan 3D Head Model
 ===========================
 
-This is a 3D head scan model, which was originally created by Lee Perry-Smith.
-You can download the package file for Unity from [here][Package].
+This is a 3D scan model of a human head, which was originally created by Lee
+Perry-Smith. You can download the Unity package file from [here][Package].
 
 ![screen shot][Sample]
 
@@ -11,7 +11,7 @@ Commons Attribution 3.0 Unported][CC] license.
 
 The original scan data was created by Lee Perry-Smith. [Morgan McGuire][McGuire]
 and Guedis Cardenas converted it to convenient formats. Keijiro Takahashi did
-some small tweaks to the model to properly import it to Unity.
+some small tweaks to be properly imported into Unity.
 
 Please see [the license file][License] for further details.
 

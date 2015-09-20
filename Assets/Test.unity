@@ -341,7 +341,7 @@ MonoBehaviour:
   _colorTemp: .610000014
   _colorTint: .0799999982
   _toneMapping: 1
-  _exposure: 1.73000002
+  _exposure: 1.41999996
   _saturation: 1
   _rCurve:
     serializedVersion: 2
